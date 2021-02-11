@@ -68,7 +68,7 @@ Usnesení, kterým jsme hlasování podmínili, mělo zahrnovat rozšíření ko
 <td style="background-color: #f04124;"><a href="https://www.psp.cz/sqw/hlasy.sqw?G=75053">✖️</a></td>
 <td>Poslanecká sněmovna 5b) vyzývá vládu, aby do 25. 1. 2021 rozšířila tato data o indikační skupinu, věkovou kohortu, pořadí dávky.</td>
 <td>Protinávrh ODS</td>
-</tr></tr>
+</tr><tr>
 <td style="background-color: #f04124;"><a href="https://www.psp.cz/sqw/hlasy.sqw?G=75054">✖️</a></td>
 <td>Poslanecká sněmovna 5b) bere na vědomí příslib ministra zdravotnictví do 25. 1. 2021 rozšířit tato data o indikační skupinu, věkovou kohortu a pořadí dávky</td>
 <td>Piráti</td>
@@ -150,7 +150,6 @@ c) umožnila ředitelům škol povolit přítomnost žáků závěrečných roč
 <td>22. 1.</td>
 <td>14. 2</td>
 <td><a href="https://www.psp.cz/sqw/hlasy.sqw?G=75063">Sněmovna</a></td>
-</tr>
 </tr>
 </tbody>
 </table>
